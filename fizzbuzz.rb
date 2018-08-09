@@ -12,7 +12,7 @@ end
  
 end
 
-puts fizzbuzz(9)
+puts fizzbuzz(6)
 
 # def fizzbuzz(number)
 #   if number % 5 == 0 && number % 3 == 0 
